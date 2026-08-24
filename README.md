@@ -30,7 +30,7 @@ My current focus is on building systems that move beyond model training into dep
 ### 💻 Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,sql" />
+  <img src="https://skillicons.dev/icons?i=python,sql" />
 </p>
 
 ### 🧠 Machine Learning
