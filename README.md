@@ -1,8 +1,8 @@
 <p align="center">
 
-# 🤖 PUTTI VIGNESH
+<h1 align="center">🤖 PUTTI VIGNESH</h1>
 
-### `AI/ML • Python • MLOps • Data Engineering`
+<h3 align="center">AI/ML • Python • MLOps • Data Engineering</h3>
 
 </p>
 
