@@ -1,6 +1,10 @@
+<p align="center">
+
 # 🤖 PUTTI VIGNESH
 
 ### `AI/ML • Python • MLOps • Data Engineering`
+
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Machine+Learning+Systems;Exploring+MLOps+%26+Cloud+Deployment;Python+%7C+FastAPI+%7C+Docker+%7C+AWS;Turning+Data+into+Practical+Solutions" alt="Typing animation" />
@@ -14,6 +18,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+---
 
 ---
 
