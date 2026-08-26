@@ -19,15 +19,19 @@
   </a>
 </p>
 
----
 
 ---
 
 ## 🧠 About Me
 
-I'm a Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning, interested in building practical applications using machine learning, backend development, MLOps, cloud technologies, and data engineering.
+## 🧠 About Me
 
-My current focus is on building systems that move beyond model training into deployment, automation, and production workflows.
+I'm a CSE (Artificial Intelligence & Machine Learning) student , focused on building practical and production-oriented machine learning applications.
+
+My work centers on **Python, machine learning, backend development, MLOps, and cloud deployment**, with an emphasis on taking ML solutions from model development to reliable, deployable applications.
+
+I'm currently strengthening my expertise in **Python, Scikit-learn, XGBoost, FastAPI, MLflow, Docker, and AWS**, while developing end-to-end projects that combine machine learning with modern software engineering practices.
+
 
 ---
 
