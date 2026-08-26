@@ -101,12 +101,12 @@ https://github.com/putti-vignesh/Clean-Waste-Management-vignesh
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=putti-vignesh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=putti-vignesh&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=putti-vignesh&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=putti-vignesh&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=putti-vignesh&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
