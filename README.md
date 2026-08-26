@@ -24,8 +24,6 @@
 
 ## 🧠 About Me
 
-## 🧠 About Me
-
 I'm a CSE (Artificial Intelligence & Machine Learning) student , focused on building practical and production-oriented machine learning applications.
 
 My work centers on **Python, machine learning, backend development, MLOps, and cloud deployment**, with an emphasis on taking ML solutions from model development to reliable, deployable applications.
