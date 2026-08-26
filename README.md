@@ -29,13 +29,13 @@ My current focus is on building systems that move beyond model training into dep
 
 ### 💻 Programming
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,sql" />
 </p>
 
 ### 🧠 Machine Learning
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />
 </p>
 
@@ -43,19 +43,19 @@ My current focus is on building systems that move beyond model training into dep
 
 ### ⚙️ Backend
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi,flask" />
 </p>
 
 ### ☁️ DevOps & Cloud
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions" />
 </p>
 
 ### 📊 Data Engineering
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=hadoop,spark" />
 </p>
 
@@ -95,9 +95,6 @@ https://github.com/putti-vignesh/Clean-Waste-Management-vignesh
 - 📊 Data Engineering
 - 🔥 Apache Spark
 - 🐘 Hadoop & HBase
-
----
-
 
 ---
 
